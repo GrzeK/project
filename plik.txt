@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rolnik to rolni
+=======
+rolnik szuka koniec
+>>>>>>> newFunction
