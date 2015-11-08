@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-rolnik to rolni
-=======
-rolnik szuka koniec
->>>>>>> newFunction
+first line: -----
+second line: -----
